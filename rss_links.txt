@@ -1,0 +1,3 @@
+https://e24.no/rss2/?seksjon=eksklusiv24_eiendom
+https://ws.finansavisen.no/api/articles.rss?category=Eiendom
+https://services.dn.no/api/feed/rss/?categories=nyheter&topics=eiendom
